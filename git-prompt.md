@@ -31,5 +31,5 @@ Git branch -u o/main foo | instructs a branch to track a remote branch | **NAN**
 Git push origin main | forcibly pushes the specified branches | **NAN**
 Git push origin foo:main | push from one ( specified ) branch to another ( specified ) | **NAN**
 
-> [go back to the start](./readme.md)<br>
+> [go back to the start](https://github.com/ZemaPapenko33/internship)<br>
 
