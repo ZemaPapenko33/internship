@@ -1,0 +1,22 @@
+body 
+{
+    padding: 0px;
+    
+}
+.block{
+    background: url('./pngtree-gradient-soft-background-colorgradientfluidbluepink-image_60342.png');
+    height: 60px;
+    border-radius: 150px;
+    box-shadow: 0 0 5px #000;
+    background-repeat: repeat-x;
+    background-position: 50%50%;
+    font-size: 50px;
+    font-style: oblique;
+    color: black; 
+}
+.icon
+{  
+  border-radius: 50%;
+  
+}
+
