@@ -1,7 +1,6 @@
 body 
 {
-    padding: 0px;
-    
+    padding: 30px;
 }
 .block{
     background: url('./pngtree-gradient-soft-background-colorgradientfluidbluepink-image_60342.png');
@@ -16,7 +15,10 @@ body
 }
 .icon
 {  
-  border-radius: 50%;
   
+}
+.right{
+  
+
 }
 
