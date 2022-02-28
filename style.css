@@ -1,6 +1,8 @@
 body 
 {
     padding: 30px;
+    
+    
 }
 .block{
     background: whitesmoke;
@@ -36,6 +38,7 @@ body
     margin-left: auto;
     background: rgb(73, 73, 69);
     color: white;
+
 }
 .icon
 {
@@ -53,10 +56,13 @@ a
     text-decoration: none;
     color: white;
     font-size: 20px;
+    padding: 5px;
+   
 }
 a:hover
 {
     color:black;
+    
 };
 p {
     margin-top: 0.5em; /* Отступ сверху */
@@ -66,14 +72,22 @@ p {
 {
     font-size: 25px;
     font-weight: normal;
-   font-style: initial;
-   margin-top: 0em; /* Отступ сверху */
-   margin-bottom: 0em; /* Отступ снизу */
+    font-style: initial;
+    font-family: Verdana, sans-serif;
 }
 .afterText
 {
     color: rgb(172, 163, 163);
-    font-size: 15px;
+    font-size: 12px;
     margin-top: 0.5em; /* Отступ сверху */
     margin-bottom: 1em; /* Отступ снизу */
+    line-height: 15px;
+    padding: 5px;
+}
+.otd
+{
+ font-size: 20px;
+ font-family: 'Times New Roman', Times, serif;
+ line-height: 1px;
+ padding: 5px;
 };
