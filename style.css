@@ -3,9 +3,10 @@ body
     padding: 30px;
 }
 .block{
-    background: url('./pngtree-gradient-soft-background-colorgradientfluidbluepink-image_60342.png');
+    background: whitesmoke;
     height: 60px;
-    border-radius: 150px;
+    border: 1px;
+    border-radius: 10px 40px;
     box-shadow: 0 0 5px #000;
     background-repeat: repeat-x;
     background-position: 50%50%;
@@ -13,12 +14,66 @@ body
     font-style: oblique;
     color: black; 
 }
-.icon
-{  
-  
-}
 .right{
-  
+  height: 100%;
+  box-shadow: 0 0 5px #000;
+  background: whitesmoke;
 
 }
-
+.right2
+{
+  height: 300px;
+  width: 250px ;
+  margin-left: auto;
+  background: rgb(43, 43, 48);
+  font-size: 20px;
+  color: rgb(172, 163, 163);
+}
+.right3
+{
+    height: 600px;
+    width: 250px ;
+    margin-left: auto;
+    background: rgb(73, 73, 69);
+    color: white;
+}
+.icon
+{
+    display: block;
+    margin:  auto;
+}
+.about
+{
+    font-size: 30px;
+    color: white;
+    font-style: initial
+}
+a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+a:hover
+{
+    color:black;
+};
+p {
+    margin-top: 0.5em; /* Отступ сверху */
+    margin-bottom: 1em; /* Отступ снизу */
+   }
+.text
+{
+    font-size: 25px;
+    font-weight: normal;
+   font-style: initial;
+   margin-top: 0em; /* Отступ сверху */
+   margin-bottom: 0em; /* Отступ снизу */
+}
+.afterText
+{
+    color: rgb(172, 163, 163);
+    font-size: 15px;
+    margin-top: 0.5em; /* Отступ сверху */
+    margin-bottom: 1em; /* Отступ снизу */
+};
