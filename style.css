@@ -30,6 +30,7 @@ body
   background: rgb(43, 43, 48);
   font-size: 20px;
   color: rgb(172, 163, 163);
+  padding-bottom: 30px;
 }
 .right3
 {
@@ -52,7 +53,6 @@ body
     color: white;
     font-style: initial;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    
 }
 .text
 {
