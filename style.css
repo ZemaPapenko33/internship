@@ -33,12 +33,13 @@ body
 }
 .right3
 {
-    height: 600px;
+    min-height: 100px;
+    max-height: 100%;
     width: 250px ;
     margin-left: auto;
     background: rgb(73, 73, 69);
     color: white;
-
+    
 }
 .icon
 {
@@ -49,25 +50,10 @@ body
 {
     font-size: 30px;
     color: white;
-    font-style: initial
-}
-a
-{
-    text-decoration: none;
-    color: white;
-    font-size: 20px;
-    padding: 5px;
-   
-}
-a:hover
-{
-    color:black;
+    font-style: initial;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     
-};
-p {
-    margin-top: 0.5em; /* Отступ сверху */
-    margin-bottom: 1em; /* Отступ снизу */
-   }
+}
 .text
 {
     font-size: 25px;
@@ -79,8 +65,7 @@ p {
 {
     color: rgb(172, 163, 163);
     font-size: 12px;
-    margin-top: 0.5em; /* Отступ сверху */
-    margin-bottom: 1em; /* Отступ снизу */
+    margin-top: 1.5px;
     line-height: 15px;
     padding: 5px;
 }
@@ -90,4 +75,21 @@ p {
  font-family: 'Times New Roman', Times, serif;
  line-height: 1px;
  padding: 5px;
+ margin-bottom: 1.5px;
+}
+.informationAbout
+{
+    
+}
+a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+a:hover
+{
+    color:black;
 };
