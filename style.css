@@ -16,11 +16,15 @@ body
     font-style: oblique;
     color: black; 
 }
-.right{
+.container{
+    display: flex;
   height: 100%;
   box-shadow: 0 0 5px #000;
   background: whitesmoke;
+}
 
+.content {
+    width: calc(100% - 250px)
 }
 .right2
 {
