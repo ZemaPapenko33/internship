@@ -20,7 +20,7 @@ body
   height: 100%;
   box-shadow: 0 0 5px #000;
   background: whitesmoke;
-
+  display: flexbox;
 }
 .right2
 {
@@ -86,7 +86,7 @@ a
     text-decoration: none;
     color: white;
     font-size: 20px;
-    padding: 5px;
+    padding: 10px;
     font-family: 'Times New Roman', Times, serif;
 }
 a:hover
