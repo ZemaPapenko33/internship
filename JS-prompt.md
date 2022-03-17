@@ -5,4 +5,5 @@
 >- [javascript.ru](https://learn.javascript.ru/)
 > - [ECMA](https://tc39.es/ecma262/)
 
+> [go back to the start](https://github.com/ZemaPapenko33/internship)<br>
 
