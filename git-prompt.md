@@ -30,6 +30,9 @@ Git pull --rebase | solves a problem when a newer commit was added to a remote p
 Git branch -u o/main foo | instructs a branch to track a remote branch | **NAN**
 Git push origin main | forcibly pushes the specified branches | **NAN**
 Git push origin foo:main | push from one ( specified ) branch to another ( specified ) | **NAN**
+git remote (-v) | shows which repositories we are connected to | **NAN**
+git push --force | rewrites history (used after rebase) | **NAN**
+
 
 > [go back to the start](https://github.com/ZemaPapenko33/internship)<br>
 
